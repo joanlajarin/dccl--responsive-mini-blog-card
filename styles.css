@@ -41,10 +41,11 @@ body {
 .tag-design{
     display: flex;
 }
-.tag {
+.btn-design {
     font-size: 10px;   
     color: #883AE1;
     background-color: #E6D6FC;
     border-radius: 30px;
     padding: 6px 16px;
+    border: 0px;
 }
